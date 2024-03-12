@@ -1,4 +1,5 @@
 #Junk Files
 .DS_Store
 .ipynb_checkpoints
-
+.gitattributes
+Film Studio Data Analysis-checkpoint.ipynb
