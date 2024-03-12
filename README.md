@@ -27,9 +27,15 @@ To ensure successful movie production, the studio head must consider various fac
 
 **Identifying Popular Genres:** Action, Adventure, Sci-Fi, Animation, Comedy, and Drama have consistently received high ratings and audience engagement. Focusing on these genres maximizes box office potential and appeals to diverse demographics.
 **Optimal Release Timing:** April, May, June, July (summer months) and November, December (holiday season) are optimal for film releases. Factors like school breaks and holiday festivities contribute to increased audience attendance.
-**Financial Success Metrics:** A film's financial success is tied to its gross revenue doubling its production budget. Higher budgets correlate with increased revenue and profitability. Strategic budget allocation aligned with revenue objectives is essential for box office success and sustainable growth.
+**Financial Success Metrics:** Regarding financial success metrics, while there's a noted correlation between higher budgets and increased revenue and profitability, strategic budget allocation is suggested as a potential driver for enhancing financial outcomes.
 
 ## More Information:
 Find the full analysis in the [Jupyter Notebook](Film Studio Data Analysis.ipynb) or review this [presentation](FilmStudioDataAnalysis.pdf).
+
+## Repository Structure
+*Data
+*Graphs
+*README.md
+*Film Studio Data Analysis.ipynb
 
 ### Author: Adriana Ramirez Franco (aramirezfr20@gmail.com)
