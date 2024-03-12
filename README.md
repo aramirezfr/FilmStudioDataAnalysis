@@ -25,17 +25,18 @@ Our objective is to guide the company in launching a successful venture into the
 ## Conclusion
 To ensure successful movie production, the studio head must consider various factors. Based on my analysis, I recommend:
 
-**Identifying Popular Genres:** Action, Adventure, Sci-Fi, Animation, Comedy, and Drama have consistently received high ratings and audience engagement. Focusing on these genres maximizes box office potential and appeals to diverse demographics.
-**Optimal Release Timing:** April, May, June, July (summer months) and November, December (holiday season) are optimal for film releases. Factors like school breaks and holiday festivities contribute to increased audience attendance.
-**Financial Success Metrics:** Regarding financial success metrics, while there's a noted correlation between higher budgets and increased revenue and profitability, strategic budget allocation is suggested as a potential driver for enhancing financial outcomes.
+- **Identifying Popular Genres:** Action, Adventure, Sci-Fi, Animation, Comedy, and Drama have consistently received high ratings and audience engagement. Focusing on these genres maximizes box office potential and appeals to diverse demographics.
+- **Optimal Release Timing:** April, May, June, July (summer months) and November, December (holiday season) are optimal for film releases. Factors like school breaks and holiday festivities contribute to increased audience attendance.
+- **Financial Success Metrics:** Regarding financial success metrics, while there's a noted correlation between higher budgets and increased revenue and profitability, strategic budget allocation is suggested as a potential driver for enhancing financial outcomes.
 
 ## More Information:
 Find the full analysis in the [Jupyter Notebook](Film Studio Data Analysis.ipynb) or review this [presentation](FilmStudioDataAnalysis.pdf).
 
 ## Repository Structure
 - Data
--Graphs
--README.md
--Film Studio Data Analysis.ipynb
+- Graphs
+- README.md
+- Film Studio Data Analysis.ipynb
+- Film Studio Data Analysis.pdf
 
 ### Author: Adriana Ramirez Franco (aramirezfr20@gmail.com)
