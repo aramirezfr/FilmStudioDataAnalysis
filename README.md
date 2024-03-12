@@ -33,9 +33,9 @@ To ensure successful movie production, the studio head must consider various fac
 Find the full analysis in the [Jupyter Notebook](Film Studio Data Analysis.ipynb) or review this [presentation](FilmStudioDataAnalysis.pdf).
 
 ## Repository Structure
-*Data
-*Graphs
-*README.md
-*Film Studio Data Analysis.ipynb
+- Data
+-Graphs
+-README.md
+-Film Studio Data Analysis.ipynb
 
 ### Author: Adriana Ramirez Franco (aramirezfr20@gmail.com)
