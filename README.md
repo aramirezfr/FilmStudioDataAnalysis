@@ -12,15 +12,15 @@ For this analysis, I've meticulously utilized data from five renowned sources: I
 Our objective is to guide the company in launching a successful venture into the film business. I'll analyze data from reputable film websites, focusing on key metrics such as release dates, box office performance, production budgets, and revenue. This analysis will inform our strategic approach to film production.
 
 **Visualizations:**
-![Bar Graph](./Graphs/bargraph_month.png)
-![Box Plot1](./Graphs/boxoffice_plot.png)
-![Box Plot2](./Graphs/boxplot_grossrevenue.png)
-![Revenue Skew](./Graphs/grossrevenue_barskew.png)
 ![Line Graph Movie Genres](./Graphs/line_rating_genre.png)
 ![Line Graph Votes per Genre](./Graphs/line_votes_genre2.png)
+![Box Plot1](./Graphs/boxoffice_plot.png)
+![Revenue Skew](./Graphs/grossrevenue_barskew.png)
+![Bar Graph](./Graphs/bargraph_month.png)
+![Box Plot2](./Graphs/boxplot_grossrevenue.png)
+![2nd Recommendation skew](./Graphs/rec2skew.png)
 ![Line of best fit gross revenue](./Graphs/linefit_gross.png)
 ![Line of best fit gross revenue2](./Graphs/linefit_gross2.png)
-![2nd Recommendation skew](./Graphs/rec2skew.png)
 
 ## Conclusion
 To ensure successful movie production, the studio head must consider various factors. Based on my analysis, I recommend:
