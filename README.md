@@ -12,15 +12,15 @@ For this analysis, I've meticulously utilized data from five renowned sources: I
 Our objective is to guide the company in launching a successful venture into the film business. I'll analyze data from reputable film websites, focusing on key metrics such as release dates, box office performance, production budgets, and revenue. This analysis will inform our strategic approach to film production.
 
 **Visualizations:**
-[Bar Graph](./Graphs/bargraph_month.png)
-[Box Plot1](./Graphs/boxoffice_plot.png)
-[Box Plot2](./Graphs/boxplot_grossrevenue.png)
-[Revenue Skew](./Graphs/grossrevenue_barskew.png)
-[Line Graph Movie Genres](./Graphs/line_rating_genre.png)
-[Line Graph Votes per Genre](./Graphs/line_votes_genre.png)
-[Line of best fit gross revenue](./Graphs/linefit_gross.png)
-[Line of best fit gross revenue2](./Graphs/linefit_gross2.png)
-[2nd Recommendation skew](./Graphs/rec2skew.png)
+![Bar Graph](./Graphs/bargraph_month.png)
+![Box Plot1](./Graphs/boxoffice_plot.png)
+![Box Plot2](./Graphs/boxplot_grossrevenue.png)
+![Revenue Skew](./Graphs/grossrevenue_barskew.png)
+![Line Graph Movie Genres](./Graphs/line_rating_genre.png)
+![Line Graph Votes per Genre](./Graphs/line_votes_genre.png)
+![Line of best fit gross revenue](./Graphs/linefit_gross.png)
+![Line of best fit gross revenue2](./Graphs/linefit_gross2.png)
+![2nd Recommendation skew](./Graphs/rec2skew.png)
 
 ## Conclusion
 To ensure successful movie production, the studio head must consider various factors. Based on my analysis, I recommend:
@@ -30,13 +30,13 @@ To ensure successful movie production, the studio head must consider various fac
 - **Financial Success Metrics:** Regarding financial success metrics, while there's a noted correlation between higher budgets and increased revenue and profitability, strategic budget allocation is suggested as a potential driver for enhancing financial outcomes.
 
 ## More Information:
-Find the full analysis in the [Jupyter Notebook](Film Studio Data Analysis.ipynb) or review this [presentation](FilmStudioDataAnalysis.pdf).
+Find the full analysis in the [Jupyter Notebook](FilmStudioDataAnalysis.ipynb) or review this [presentation](FilmStudioDataAnalysisPresentation.pdf).
 
 ## Repository Structure
 - Data
 - Graphs
 - README.md
-- Film Studio Data Analysis.ipynb
-- Film Studio Data Analysis.pdf
+- FilmStudioDataAnalysis.ipynb
+- FilmStudioDataAnalysisPresentation.pdf
 
 ### Author: Adriana Ramirez Franco (aramirezfr20@gmail.com)
