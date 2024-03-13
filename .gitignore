@@ -1,5 +1,12 @@
 #Junk Files
 .DS_Store
 .ipynb_checkpoints
+
+.gitattributes/*
 .gitattributes
 Film Studio Data Analysis-checkpoint.ipynb
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/*
+.ipynb_checkpoints
