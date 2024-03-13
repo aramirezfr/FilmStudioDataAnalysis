@@ -10,3 +10,10 @@ Film Studio Data Analysis-checkpoint.ipynb
 # Jupyter Notebook
 .ipynb_checkpoints/*
 .ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+.ipynb_checkpoints
+.DS_Store
+
