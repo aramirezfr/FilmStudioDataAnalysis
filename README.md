@@ -17,7 +17,7 @@ Our objective is to guide the company in launching a successful venture into the
 ![Box Plot2](./Graphs/boxplot_grossrevenue.png)
 ![Revenue Skew](./Graphs/grossrevenue_barskew.png)
 ![Line Graph Movie Genres](./Graphs/line_rating_genre.png)
-![Line Graph Votes per Genre](./Graphs/line_votes_genre.png)
+![Line Graph Votes per Genre](./Graphs/line_votes_genre2.png)
 ![Line of best fit gross revenue](./Graphs/linefit_gross.png)
 ![Line of best fit gross revenue2](./Graphs/linefit_gross2.png)
 ![2nd Recommendation skew](./Graphs/rec2skew.png)
